@@ -113,3 +113,5 @@ class Adafruit_GFX : public Print {
   GFXfont
     *gfxFont;
 };
+
+#endif // _ADAFRUIT_GFX_H
